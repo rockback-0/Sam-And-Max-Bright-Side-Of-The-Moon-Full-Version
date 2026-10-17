@@ -239,4 +239,4 @@ This repository serves as the official landing page for Sam & Max: Bright Side o
 **Get the most recent version of Sam & Max: Bright Side of the Moon today!**
 
 ---
-**Last updated:** 2026-10-16 23:21:57 UTC
+**Last updated:** 2026-10-17 03:49:22 UTC
